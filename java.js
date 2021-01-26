@@ -1,19 +1,3 @@
-/*let iteration = 1;
-while (iteration <= 5){
-    document.write(iteration);
-    iteration++;
-}
-*/
-
-
-/*
-let i = 35;
-while (i >= 11){
-    document.write ( i + "<br>" );//3linya skobka koebuz
-    i--; 
-}
-
-*/
 
 /*
 //1 primerge okshosh rare use 
@@ -148,6 +132,7 @@ number = parseInt(answer);
         break;
     }
 }*/
+//home work
 /*
 let i = 100;
 while (i >= 1){
@@ -166,4 +151,7 @@ let number = 11;
 while (number <= 33){
     document.write(number + "<br>");
     number++;
+}
+for (let i3 =11; i3 <= 33; i3++){
+    document.write (i3 + "<br>")
 }

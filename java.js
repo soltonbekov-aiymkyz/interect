@@ -1,10 +1,5 @@
 
-/*
-//1 primerge okshosh rare use 
-for (let i3 =5; i3 >= 1; i3++){
-    document.write (i3 + "<br>")
-}
-*/
+
 
 /*
 let i2 = 5;
@@ -14,32 +9,6 @@ do {
 } while (12 >= 1 )
 */
 
-//ne chetnye chisly && chetnye chisly
-/*
-let i = 25;
-while (i >= 1){
-    if (i % 3 == 0)
-    document.write ( i + "<br>" );//3linya skobka koebuz
-}
-    i--; 
-
-
-let i = 26;
-while (i >= 1){
-    if (i % 2 == 1)
-    document.write ( i + "<br>" );//3linya skobka koebuz
-}
-    i--; 
-
-*/
-/*
-let i = 25;
-while (i >= 1){
-    if (i % 2 != 0)
-    document.write ( i + "<br>" );//3linya skobka koebuz
-}
-    i--; 
-    */
 
     /*//pochti 
 let i = 25;
@@ -146,7 +115,7 @@ while (iteration <= 100){
     document.write(iteration + "<br>");
     iteration++;
 }
-*/
+
 let number = 11;
 while (number <= 33){
     document.write(number + "<br>");
@@ -154,4 +123,21 @@ while (number <= 33){
 }
 for (let i3 =11; i3 <= 33; i3++){
     document.write (i3 + "<br>")
+}*/
+
+
+let i = 26;
+while (i >= 1){
+    if (i % 2 == 0)
+    document.write ( i + "<br>" );//3linya skobka koebuz
+
+    i--; 
 }
+/*
+let i = 25;
+while (i >= 1){
+    if (i % 2 != 0)
+    document.write ( i + "<br>" );//3linya skobka koebuz
+}
+    i--; 
+    */

@@ -148,9 +148,15 @@ number = parseInt(answer);
         break;
     }
 }*/
-
+/*
 let i = 100;
 while (i >= 1){
     document.write ( i + "<br>" );//3linya skobka koebuz
     i--; 
+}
+*/
+let iteration = 1;
+while (iteration <= 100){
+    document.write(iteration + "<br>");
+    iteration++;
 }

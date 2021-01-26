@@ -155,8 +155,15 @@ while (i >= 1){
     i--; 
 }
 */
+/*
 let iteration = 1;
 while (iteration <= 100){
     document.write(iteration + "<br>");
     iteration++;
+}
+*/
+let number = 11;
+while (number <= 33){
+    document.write(number + "<br>");
+    number++;
 }

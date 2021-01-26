@@ -6,14 +6,14 @@ while (iteration <= 5){
 */
 
 
-
+/*
 let i = 35;
 while (i >= 11){
     document.write ( i + "<br>" );//3linya skobka koebuz
     i--; 
 }
 
-
+*/
 
 /*
 //1 primerge okshosh rare use 
@@ -148,5 +148,9 @@ number = parseInt(answer);
         break;
     }
 }*/
-let num = 100
-while 
+
+let i = 100;
+while (i >= 1){
+    document.write ( i + "<br>" );//3linya skobka koebuz
+    i--; 
+}

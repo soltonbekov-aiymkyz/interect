@@ -1,15 +1,6 @@
 
 
 
-/*
-let i2 = 5;
-do {
-    document.write(i2 + "<br>");
-    i2--;
-} while (12 >= 1 )
-*/
-
-
     /*//pochti 
 let i = 25;
 while (i >= 1){
@@ -82,17 +73,15 @@ while (x <= 20){
 
 
 //while (true) //sozdaet beskonechnye sikly
-/*
-let answer = prompt("please input number below 100")
-let number = parseInt(answer)//use how if 
-document.write((10 > number))
-*/
+
+//let answer = prompt("please input number below 100")
+//let number = parseFloat(answer)//use how if 
+//document.write((10 > number))
+
 /*
 let answer, number;
 //let answer = 0,
-//number = 1
-//let answer
-//let number mozhem zadat peremennye no ne zadavat
+//let number = 1
 while (true){
 answer = prompt("please input number below 100")
 number = parseInt(answer);
@@ -115,7 +104,6 @@ while (iteration <= 100){
     document.write(iteration + "<br>");
     iteration++;
 }
-
 let number = 11;
 while (number <= 33){
     document.write(number + "<br>");
@@ -124,8 +112,7 @@ while (number <= 33){
 for (let i3 =11; i3 <= 33; i3++){
     document.write (i3 + "<br>")
 }*/
-
-
+/*
 let i = 26;
 while (i >= 1){
     if (i % 2 == 0)
@@ -133,11 +120,67 @@ while (i >= 1){
 
     i--; 
 }
+*/
 /*
 let i = 25;
 while (i >= 1){
-    if (i % 2 != 0)
+    if (i % 3 == 0)
     document.write ( i + "<br>" );//3linya skobka koebuz
-}
+
     i--; 
-    */
+}
+*/
+
+let i = 40;
+while (i >= 1){
+    if (i % 4 == 0)
+    document.write ( i + "<br>" );//3linya skobka koebuz
+
+    i--; 
+}
+
+
+/*
+let i = 0
+while (i < 10) {
+console.log (i);
+i++;
+}
+*/
+
+
+/*
+ for ( let i = 1; i <= 10; i++ ) {
+for ( let i2 = 1; i2 <= 10; i2++ ){
+    document.write("<table>"+ "<tr>" + "<td>" + i2 + " * " + i + " = " + i * i2 + "</td>" + "</tr>" +  "</table>")
+}
+document.write("<br>");
+}
+*/
+
+
+
+
+
+
+
+
+
+
+/*
+for (var i = 0; i < 5; i++ ) {
+    console.log (i + ":hello, javascript ")
+}*/
+
+/*
+let answer,  number;
+while (true){
+answer = prompt("please input number below 100")
+number = parseInt(answer);
+    if (100 > number){
+        document.write("number is" +number)
+        break;
+    }
+}*/
+
+

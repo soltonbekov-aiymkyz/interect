@@ -129,7 +129,7 @@ while (i >= 1){
 
     i--; 
 }
-*/
+
 
 let i = 40;
 while (i >= 1){
@@ -138,7 +138,7 @@ while (i >= 1){
 
     i--; 
 }
-
+*/
 
 /*
 let i = 0
@@ -149,14 +149,14 @@ i++;
 */
 
 
-/*
+
  for ( let i = 1; i <= 10; i++ ) {
 for ( let i2 = 1; i2 <= 10; i2++ ){
-    document.write("<table>"+ "<tr>" + "<td>" + i2 + " * " + i + " = " + i * i2 + "</td>" + "</tr>" +  "</table>")
+    document.write("<table border=2>"+ "<tr>" + "<td>" + i2 + " * " + i + " = " + i * i2 + "</td>" + "</tr>" +  "</table>")
 }
 document.write("<br>");
 }
-*/
+
 
 
 
